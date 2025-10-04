@@ -1,3 +1,6 @@
+'DON'T USE IT'"THE LGPL IS ATTAINED BY REMOVING ALL GPL MODULES AND LEAVING ONLY LGPL MODULES"
+=========================
+
 ![CGAL](Installation/doc_html/images/cgal_2013_grey.png)
 
 The Computational Geometry Algorithms Library (CGAL) is a C++ library that
